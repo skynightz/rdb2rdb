@@ -1,0 +1,16 @@
+{
+  "name": "rdb2rdb",
+  "version": "0.1.0",
+  "description": "Rethink db to rethink db (clone tool)",
+  "main": "main.js",
+  "dependencies": {
+    "rethinkdb": "^2.4.2",
+    "watt": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gillian Fries",
+  "license": "MIT"
+}

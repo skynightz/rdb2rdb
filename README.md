@@ -1,0 +1,1 @@
+# small script to copy rethink db from one host to another
