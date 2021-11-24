@@ -1,6 +1,6 @@
 {
   "name": "rdb2rdb",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Rethink db to rethink db (clone tool)",
   "bin": {
     "rdb2rdb": "bin/rdb2rdb"
